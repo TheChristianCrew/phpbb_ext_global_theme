@@ -2,7 +2,7 @@
 	"name": "thechristiancrew/globalthemeinc",
 	"type": "phpbb-extension",
 	"description": "Includes CC's global theme parts",
-	"homepage": "",
+	"homepage": "https://github.com/TheChristianCrew/phpbb_ext_globalthemeinc",
 	"version": "1.0.0",
 	"license": "GPL-2.0",
 	"authors": [
