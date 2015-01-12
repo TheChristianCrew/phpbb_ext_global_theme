@@ -1,2 +1,2 @@
-# phpbb_ext_global_theme
+# phpbb_ext_globalthemeinc
 CC's global theme includes
