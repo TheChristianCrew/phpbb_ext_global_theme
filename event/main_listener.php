@@ -25,7 +25,7 @@ class main_listener implements EventSubscriberInterface {
   public function load_global_theme_inc() {
 
     // Set defaults
-    $cc_site_url = 'http://ccgaming.com';
+    $cc_site_url = 'https://ccgaming.com';
     $cc_global_theme_path = 'cc-global-theme/v3';
     $cc_global_theme_url = $cc_site_url .'/'. $cc_global_theme_path;
 
